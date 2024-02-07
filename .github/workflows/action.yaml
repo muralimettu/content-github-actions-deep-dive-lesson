@@ -1,4 +1,4 @@
-name: Deploy my Lambda Function
+name: Deploy My Lambda Function
 
 on:
   push:
